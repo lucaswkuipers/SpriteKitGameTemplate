@@ -1,2 +1,2 @@
 # SpriteKitGameTemplate
-The core code I often reuse on sprite kit projects.
+The core code I often reuse on SpriteKit projects.
